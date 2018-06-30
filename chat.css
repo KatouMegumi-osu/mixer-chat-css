@@ -1,0 +1,6 @@
+body { /*Transparency*/
+    background: transparent !important;
+}
+[role=textbox] { /*Text box hiding*/
+    height: 0px;
+}
