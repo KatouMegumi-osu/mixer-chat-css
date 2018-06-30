@@ -1,7 +1,7 @@
-body {
+body { /*transparency*/
     background: transparent !important;
 }
-[role=textbox] {
+[role=textbox] { /*chat box*/
     height: 0px;
 }
 ::-webkit-scrollbar { /*scrollbar*/
