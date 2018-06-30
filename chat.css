@@ -1,6 +1,9 @@
-body { /*Transparency*/
+body {
     background: transparent !important;
 }
-[role=textbox] { /*Text box hiding*/
+[role=textbox] {
     height: 0px;
+}
+::-webkit-scrollbar { /*scrollbar*/
+    width: 0px;
 }
